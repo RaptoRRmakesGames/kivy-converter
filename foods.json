@@ -1,0 +1,24 @@
+{
+    "water" : {
+        "kg" : 1 ,
+        "grams" : 1000,
+        "oz" : 35.274,
+        "liters" : 1,
+        "cups" : 4.2
+    },
+    "milk" : {
+        "kg" : 1 ,
+        "grams" : 1000,
+        "oz" : 35.274,
+        "liters" : 1,
+        "cups" : 4.2
+    },
+
+    "juice" : {
+        "kg" : 1 ,
+        "grams" : 1000,
+        "oz" : 35.274,
+        "liters" : 1,
+        "cups" : 4.2
+    }
+}
